@@ -6,7 +6,6 @@ bl_info = {
     "location": "3D View > Sidebar",
     "blender": (3, 0, 0),
     "category": "Object",
-    "support": "Community",
     "doc_url": "https://github.com/ElliotMoffatt/ffxiv-blender-breast-slider",
     "tracker_url": "https://github.com/ElliotMoffatt/ffxiv-blender-breast-slider/issues"
 }
