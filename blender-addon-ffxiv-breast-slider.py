@@ -2,7 +2,7 @@ bl_info = {
     "name": "XIV Breast Slider",
     "author": "munkfish",
     "description": "Panel with slider for resizing the breasts of the default FFXIV armature, accurate to ingame slider",
-    "version": 1.0,
+    "version": (1,0,1),
     "location": "3D View > Sidebar",
     "blender": (3, 0, 0),
     "category": "Object",
